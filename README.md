@@ -50,12 +50,12 @@ Diseñar, validar y pilotar una alternativa técnicamente viable para la segrega
 
 ## Compromisos individuales
 
-| Integrante | Compromiso | Evidencia de cumplimiento | Fecha |
-|---|---|---|---|
-| María Ignacia Pino | Liderar 1 reunión de seguimiento/semana y documentar en Docs en 24h. | Actas publicadas en la carpeta compartida | Semanal |
-| Bastián Cárcamo | Responder WhatsApp en <24h y coordinar reuniones con 48h de anticipación. | Registro de mensajes y calendario de equipo | Continuo |
-| Martina Pérez | Presentar 2 referentes de soluciones de residuos (resina/láser). | Documento de investigación/Pitch al equipo | 10-09-2026 |
-| Juan Pérez | Realizar al menos un commit documentado por semana. | Historial de commits en el repositorio | Semanal |
+| Integrante | Compromiso |
+|---|---|
+| María Ignacia Pino | Liderar 1 reunión de seguimiento/semana y documentar en Docs en 24h. | 
+| Bastián Cárcamo | Responder WhatsApp en <24h y coordinar reuniones con 48h de anticipación. | 
+| Martina Pérez | Presentar 2 referentes de soluciones de residuos (resina/láser). | 
+| Juan Pérez | Realizar al menos un commit documentado por semana. |
 
 ## Usuarios y contexto
 
@@ -76,12 +76,6 @@ Diseñar, validar y pilotar una alternativa técnicamente viable para la segrega
 ## Índice de la bitácora
 
 - [S02 - Identidad del equipo y desafío](bitacora/S02.md)
-
-## Evidencias principales
-
-- [Ficha técnica Desafío 05: Sostenibilidad - Lab881 Hub Providencia](documentos/desafio_05_sostenibilidad.pdf)
-- [Fotografías iniciales de la zona de post-procesamiento de resina y cortadora láser](imagenes/S01/evidencias-residuos.jpg)
-- [Registro del convenio vigente PLA con REBASE](documentos/convenio_rebase.pdf)
 
 ## Decisiones relevantes
 
