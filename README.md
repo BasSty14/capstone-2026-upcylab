@@ -15,10 +15,10 @@ Este proyecto aborda la gestión de residuos críticos generados por la fabricac
 
 ## Equipo
 
-| Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
-|---|---|---|---|
+| Integrante | Carrera o especialidad | Usuario de GitHub |
+|---|---|---|
 | Juan Perez | Ingeniería Civil en Computación e Informática | @JuanPerezC893 |
-| Maria Pino | Ingeniería Civil en Computación e Informática | Prototipado y Diseño de Procesos | [@usuario2] |
+| Maria Pino | Ingeniería Civil en Computación e Informática |  [@usuario2] |
 | Martina Pérez | Ingeniería Civil en Computación e Informática | [@usuario3] |
 | Bastian | Ingeniería Civil en Computación e Informática | [@usuario3] |
 
