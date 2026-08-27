@@ -50,11 +50,12 @@ Diseñar, validar y pilotar una alternativa técnicamente viable para la segrega
 
 ## Compromisos individuales
 
-| Integrante | Compromiso SMART |
-|---|---|
-| [Nombre 1] | Mapear y cuantificar el 100% del flujo de residuos de resina y corte láser en el Lab881 mediante 3 visitas de campo y análisis de insumos antes del 15 de septiembre de 2026. |
-| [Nombre 2] | Diseñar y fabricar un prototipo/dispositivo o protocolo de prueba para el manejo o curado/segregación de residuos antes del 15 de octubre de 2026. |
-| [Nombre 3] | Realizar al menos 5 entrevistas a usuarios y operadores del Lab881 para validar la usabilidad de la propuesta y mantener actualizada la bitácora semanal en GitHub. |
+| Integrante | Compromiso | Evidencia de cumplimiento | Fecha |
+|---|---|---|---|
+| María Ignacia Pino | Liderar 1 reunión de seguimiento/semana y documentar en Docs en 24h. | Actas publicadas en la carpeta compartida | Semanal |
+| Bastián Cárcamo | Responder WhatsApp en <24h y coordinar reuniones con 48h de anticipación. | Registro de mensajes y calendario de equipo | Continuo |
+| Martina Pérez | Presentar 2 referentes de soluciones de residuos (resina/láser). | Documento de investigación/Pitch al equipo | 10-09-2026 |
+| Juan Pérez | Realizar al menos un commit documentado por semana. | Historial de commits en el repositorio | Semanal |
 
 ## Usuarios y contexto
 
