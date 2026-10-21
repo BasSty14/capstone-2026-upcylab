@@ -1,0 +1,58 @@
+# S01 - Inicio del Ramo e Introducción al Proyecto Capstone
+
+**Fecha:** 13-08-2026
+**Participantes:** Bastián Cárcamo, Juan Pérez, Martina Pérez, María Ignacia Pino
+**Responsable del registro:** Juan Pérez
+
+## Objetivo
+
+Comprender la metodología de trabajo de la asignatura Proyecto Capstone, conocer los lineamientos generales de evaluación, conformar los equipos de trabajo interdisciplinarios y familiarizarnos con las problemáticas de sostenibilidad disponibles para el semestre.
+
+## Actividades realizadas
+
+1. Asistencia a la cátedra inaugural de presentación de la asignatura junto a la profesora Ana Jorquera.
+2. Conformación preliminar del equipo de trabajo integrando estudiantes de Ingeniería Civil Industrial e Ingeniería Civil en Computación e Informática.
+3. Revisión general de los desafíos propuestos y primeros acercamientos al uso de GitHub como plataforma de documentación continua (bitácora).
+
+## Evidencias
+
+![Inicio de semestre](../imagenes/S01/inicio_ramo.jpg)
+
+- [Enlace al programa de la asignatura / Presentación clase 1]
+
+## Resultados
+
+Se estableció el grupo de trabajo base y se comprendieron las exigencias del curso. Quedó claro que el foco durante las primeras semanas será entender a fondo el problema asignado antes de saltar a proponer una solución técnica.
+
+## Decisiones y justificación
+
+| Decisión | Evidencia o criterio | Consecuencia para el proyecto |
+|---|---|---|
+| Conformar un equipo interdisciplinario entre Industrial e Informática. | Requerimientos del ramo y complementariedad de habilidades técnicas y de gestión. | Permite abordar el futuro desafío tanto desde el diseño de procesos como desde el desarrollo tecnológico. |
+| Utilizar WhatsApp y Google Docs como canales primarios de apoyo a GitHub. | Facilidad de acceso y rapidez de coordinación para todos los integrantes. | Agilizará la redacción de minutas y acuerdos antes de subirlos al repositorio oficial. |
+
+## Errores, dificultades o riesgos
+
+- **Qué no funcionó:** Aún no contábamos con roles definidos ni una estructura clara para organizar los archivos del equipo.
+- **Por qué creemos que ocurrió:** Por ser la primera sesión de acercamiento y no tener todavía el desafío específico asignado en detalle.
+- **Qué haremos para comprobarlo o corregirlo:** En la siguiente sesión redactaremos un contrato de equipo formal, definiendo valores, normas y metas SMART individuales.
+
+## Aprendizajes
+
+El equipo comprendió que en un Proyecto Capstone el proceso de documentación, la validación de supuestos y el trabajo colaborativo constante son tan importantes como el prototipo final que se entregará a fin de semestre.
+
+## Tareas y responsables
+
+| Tarea | Responsable(s) | Fecha límite | Estado |
+|---|---|---|---|
+| Crear grupo de WhatsApp para coordinación | Bastián Cárcamo | 14-08-2026 | Completado |
+| Crear repositorio inicial en GitHub | Juan Pérez | 18-08-2026 | Completado |
+| Preparar estructura para la primera minuta y foto del equipo | María Ignacia Pino, Martina Pérez | 20-08-2026 | Completado |
+
+## Próximo paso
+
+Reunirse en la Semana 2 para formalizar el nombre del equipo (UPCYLAB), tomar la fotografía oficial, firmar el contrato de equipo y analizar el desafío asignado (Desafío 05: Lab881).
+
+## Fuentes consultadas
+
+- Cátedra introductoria de Proyecto Capstone, Profesora Ana Jorquera.
