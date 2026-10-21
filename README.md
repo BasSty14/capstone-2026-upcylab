@@ -53,9 +53,9 @@ Diseñar, validar y pilotar una alternativa técnicamente viable para la segrega
 | Integrante | Compromiso |
 |---|---|
 | María Ignacia Pino | Liderar 1 reunión de seguimiento/semana y documentar en Docs en 24h. | 
-| Bastián Cárcamo | Responder WhatsApp en <24h y coordinar reuniones con 48h de anticipación. | 
+| Juan Perez | Responder WhatsApp en <24h y coordinar reuniones con 48h de anticipación. | 
 | Martina Pérez | Presentar 2 referentes de soluciones de residuos (resina/láser). | 
-| Juan Pérez | Realizar al menos un commit documentado por semana. |
+| Bastián Cárcamo | Realizar al menos un commit documentado por semana. |
 
 ## Usuarios y contexto
 
