@@ -67,15 +67,24 @@ Diseñar, validar y pilotar una alternativa técnicamente viable para la segrega
 
 | Actividad | Responsable(s) | Fecha | Estado |
 |---|---|---|---|
-| Visita técnica al Lab881 y entrevistas a operadores | [Nombre 3] | 05-09-2026 | Pendiente |
-| Levantamiento cuantitativo y caracterización de residuos (resina/láser) | [Nombre 1] | 12-09-2026 | Pendiente |
-| Definición del flujo prioritario y benchmarking de soluciones | Todo el equipo | 19-09-2026 | Pendiente |
-| Diseño conceptual y desarrollo del prototipo / procedimiento | [Nombre 2] | 03-10-2026 | Pendiente |
+| Visita técnica al Lab881 y entrevistas a operadores | Martina Pérez | 05-09-2026 | Completado |
+| Levantamiento cuantitativo y caracterización de residuos (resina/láser) | Juan Pérez | 12-09-2026 | Completado |
+| Definición del flujo prioritario y benchmarking de soluciones | Todo el equipo | 19-09-2026 | Completado |
+| Diseño conceptual y desarrollo del prototipo / procedimiento | María Ignacia Pino, Bastián Cárcamo | 03-10-2026 | En progreso |
 | Pruebas piloto y validación en terreno con contraparte | Todo el equipo | 17-10-2026 | Pendiente |
 
 ## Índice de la bitácora
 
+- [S01 - Inicio del Ramo e Introducción al Proyecto Capstone](bitacora/S01.md)
 - [S02 - Identidad del equipo y desafío](bitacora/S02.md)
+- [S03 - Mapa Conceptual y Mapa de Empatía](bitacora/S03.md)
+- [S04 - Suspensión por Torneo Deportivo "Trofeo Mayor" y Continuidad de Empatía](bitacora/S04.md)
+- [S05 - Presentación de Pitch del Problema y Enfoque del Proyecto](bitacora/S05.md)
+- [S06 - Receso Académico por Fiestas Patrias y Preparación de Terreno](bitacora/S06.md)
+- [S07 - Visita a Terreno y Validación de Supuestos (Lab881)](bitacora/S07.md)
+- [S08 - Suspensión por Paro Nacional y Sistematización de Visita a Lab881](bitacora/S08.md)
+- [S09 - Paralización de la Carrera de Informática y Análisis de Referentes](bitacora/S09.md)
+- [S10 - Tutoría Docente y Reorganización General de la Bitácora en GitHub](bitacora/S10.md)
 
 ## Decisiones relevantes
 
