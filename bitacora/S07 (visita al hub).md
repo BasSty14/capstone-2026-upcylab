@@ -1,6 +1,6 @@
 # S07 - Visita a Terreno y Validación de Supuestos (Lab881)
 
-**Fecha:** 04-10-2026
+**Fecha:** 24-09-2026
 **Participantes:** Bastián Cárcamo, Juan Pérez, Martina Pérez, María Ignacia Pino.
 
 **Responsable del registro:** Bastián Cárcamo.
@@ -18,7 +18,7 @@ Realizar una visita a terreno en Hub Providencia (Lab881) para realizar un levan
 ## Evidencias
 
 [Preguntas Hub](../Documentos/VisitaHub.pdf)  
-[Pruebas fotográficas](../imagenes/VisitaHub)  
+[Pruebas fotográficas](../imagenes/VisitaHubF)
 
 
 ## Resultados

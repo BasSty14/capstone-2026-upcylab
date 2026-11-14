@@ -81,10 +81,13 @@ Diseñar, validar y pilotar una alternativa técnicamente viable para la segrega
 - [S04 - Suspensión por Torneo Deportivo "Trofeo Mayor" y Continuidad de Empatía](bitacora/S04.md)
 - [S05 - Presentación de Pitch del Problema y Enfoque del Proyecto](bitacora/S05.md)
 - [S06 - Receso Académico por Fiestas Patrias y Preparación de Terreno](bitacora/S06.md)
-- [S07 - Visita a Terreno y Validación de Supuestos (Lab881)](bitacora/S07.md)
-- [S08 - Suspensión por Paro Nacional y Sistematización de Visita a Lab881](bitacora/S08.md)
-- [S09 - Paralización de la Carrera de Informática y Análisis de Referentes](bitacora/S09.md)
-- [S10 - Tutoría Docente y Reorganización General de la Bitácora en GitHub](bitacora/S10.md)
+- [S07 - Visita a Terreno y Validación de Supuestos (Lab881)](bitacora/S07%20%28visita%20al%20hub%29.md)
+- [S08 - Suspensión por Paro Nacional y Sistematización de Visita a Lab881](bitacora/S08%20%28paro%29.md)
+- [S09 - Paralización de la Carrera de Informática y Análisis de Referentes](bitacora/S09%20%28paro%29.md)
+- [S10 - Tutoría Docente y Reorganización General de la Bitácora en GitHub](bitacora/S10%20%28paro%29.md)
+- [S11 - Seguimiento del equipo y actividad de observación](bitacora/S11.md)
+- [S13 - Planificación del prototipo, presentación de la solución y desafío del marshmallow](bitacora/S13.md)
+- [S14 - Presentación de avance, plan de pruebas y preparación del stand](bitacora/S14.md)
 
 ## Decisiones relevantes
 

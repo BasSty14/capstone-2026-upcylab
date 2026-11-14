@@ -18,7 +18,7 @@ Organizar de manera remota las fotografías, apuntes y respuestas obtenidas dura
 ## Evidencias
 
 [Preguntas Hub](../Documentos/VisitaHub.pdf)  
-[Pruebas fotográficas](../imagenes/VisitaHub)  
+[Pruebas fotográficas](../imagenes/VisitaHubF)
 
 ## Resultados
 
