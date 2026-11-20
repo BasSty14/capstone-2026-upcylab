@@ -1,0 +1,22 @@
+{
+  "name": "upcylab-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env.local scripts/dev-server.mjs",
+    "build": "node scripts/check.mjs",
+    "test": "node --test test/*.test.mjs",
+    "setup-db": "node --env-file-if-exists=.env.local scripts/setup-db.mjs",
+    "vercel": "vercel"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.2"
+  },
+  "devDependencies": {
+    "vercel": "66.5.0"
+  }
+}

@@ -1,0 +1,14 @@
+node_modules
+.git
+.env*
+data
+test
+test-results
+firmware
+README.md
+docs
+deployment.json
+*.zip
+*.log
+backups
+coverage

@@ -73,6 +73,12 @@ Diseñar, validar y pilotar una alternativa técnicamente viable para la segrega
 | Diseño conceptual y desarrollo del prototipo / procedimiento | María Ignacia Pino, Bastián Cárcamo | 03-10-2026 | En progreso |
 | Pruebas piloto y validación en terreno con contraparte | Todo el equipo | 17-10-2026 | Pendiente |
 
+## Prototipo de registro y dashboard
+
+El código de la estación ESP32 y del dashboard está en [software/upcylab](software/upcylab/README.md). Incluye instrucciones de configuración, API y pruebas. El prototipo actual simula el peso con un potenciómetro y representa el ciclo con un LED; no valida curado UV.
+
+**Dashboard:** https://upcylab-dashboard.vercel.app
+
 ## Índice de la bitácora
 
 - [S01 - Inicio del Ramo e Introducción al Proyecto Capstone](bitacora/S01.md)

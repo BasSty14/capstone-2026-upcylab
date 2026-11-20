@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="es">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#112b2a"><title>UPCYLAB · Trazabilidad</title><link rel="stylesheet" href="/style.css"></head>
+<body>
+<aside class="sidebar">
+  <a class="brand" href="#inicio"><span class="brand-icon">U<span>↗</span></span><span>UPCYLAB<small>LAB881 · HUB PROVIDENCIA</small></span></a>
+  <div class="nav-label">ESTACIÓN DE REGISTRO</div>
+  <nav><a href="#inicio" class="active"><span>◫</span> Resumen</a><a href="#registros"><span>▤</span> Registros</a><a id="export-side" href="/api/export"><span>⇩</span> Exportar CSV</a></nav>
+  <div class="side-note"><span class="leaf">♧</span><strong>Medir para mejorar.</strong><p>Cada registro ayuda a entender los residuos del laboratorio.</p></div>
+  <div class="local-tag"><span></span> Registros en la nube</div>
+</aside>
+<main id="inicio">
+  <header><span>PROYECTO CAPSTONE <span class="slash">/</span> DESAFÍO 05</span><span id="clock"></span></header>
+  <section class="heading"><div><div class="eyebrow">SOSTENIBILIDAD CON DATOS</div><h1>Trazabilidad de residuos<span>.</span></h1><p>Del registro al diagnóstico. Una mirada al descarte del Lab881.</p></div><button id="demo-toggle" class="button secondary" aria-pressed="false">Ver ejemplo</button></section>
+  <div id="demo-banner" class="banner" hidden><strong>Vista de ejemplo.</strong> Estos datos son ficticios y no se guardan en la base de datos.</div>
+  <div id="error" class="banner error" role="alert" hidden></div>
+  <section class="station cloud-station" aria-label="Estado de los registros">
+    <div class="station-intro"><span class="usb-symbol">⌁</span><div><div class="station-title">Estación UPCYLAB <span id="cloud-badge" class="badge">Consultando…</span></div><p id="cloud-message">Conectando con la base de datos…</p></div></div>
+    <div class="live"><span>ÚLTIMA RECEPCIÓN</span><strong id="last-reception">—</strong><div>Confirmada por el servidor</div></div>
+    <div class="cloud-info"><strong>ESP32 · Wi-Fi</strong><p>Los registros llegan al confirmar en la estación. El computador no necesita estar encendido.</p><span id="cloud-mode">Dashboard en la nube</span></div>
+  </section>
+  <div class="section-heading"><h2>Vista general</h2><span id="updated">Actualizando…</span></div>
+  <section class="filters" aria-label="Filtros"><label>Desde<input type="date" id="from"></label><label>Hasta<input type="date" id="to"></label><label>Tipo de residuo<select id="type"><option value="">Todos los tipos</option><option value="RESINA_LIQUIDA">Resina líquida</option><option value="SOLIDOS_EPIS">Sólidos / EPIs</option></select></label><button id="clear-filters" class="text-button">Limpiar filtros</button></section>
+  <section class="metrics" aria-label="Indicadores">
+    <article class="metric total"><div class="metric-top">Peso total registrado<span>◈</span></div><div class="metric-number"><span id="total-kg">0,000</span><small>kg</small></div><p>Acumulado del período seleccionado</p></article>
+    <article class="metric"><div class="metric-top"><span class="legend resin"></span> Resina líquida</div><div class="metric-number"><span id="resin-kg">0,000</span><small>kg</small></div><p>Resina remanente registrada</p></article>
+    <article class="metric"><div class="metric-top"><span class="legend solids"></span> Sólidos / EPIs</div><div class="metric-number"><span id="solids-kg">0,000</span><small>kg</small></div><p>Guantes, toallas y filtros</p></article>
+    <article class="metric"><div class="metric-top">Registros guardados<span>▤</span></div><div class="metric-number"><span id="count">0</span></div><p id="latest">Aún no hay registros</p></article>
+  </section>
+  <section class="charts"><article class="panel evolution"><div class="panel-head"><div><h2>Volumen registrado por día</h2><p>Últimos 14 días con registros del período · kg</p></div><div class="chart-key"><span><i class="legend resin"></i>Resina</span><span><i class="legend solids"></i>Sólidos</span></div></div><div id="bar-chart" class="bar-chart" aria-label="Gráfico de peso por día"></div></article><article class="panel distribution"><div class="panel-head"><div><h2>Distribución por tipo</h2><p>Participación en el peso total</p></div></div><div id="donut" class="donut"><div><strong id="donut-count">0</strong><span>registros</span></div></div><div class="distribution-row"><span><i class="legend resin"></i>Resina líquida</span><strong id="resin-pct">0 %</strong></div><div class="distribution-row"><span><i class="legend solids"></i>Sólidos / EPIs</span><strong id="solids-pct">0 %</strong></div></article></section>
+  <section id="registros" class="panel records"><div class="panel-head"><div><h2>Últimos registros</h2><p id="table-caption">Fecha de registro · hora de Chile</p></div><a id="export" class="button secondary" href="/api/export">Descargar CSV</a></div><div class="table-wrap"><table><thead><tr><th>Fecha y hora</th><th>Tipo de residuo</th><th class="numeric">Gramos</th><th class="numeric">Kilogramos</th><th>Registro</th></tr></thead><tbody id="table-body"></tbody></table></div><div id="empty" class="empty"><span>▤</span><h3>Tu primer registro empieza en la estación</h3><p>Conecta el ESP32 al Wi-Fi, elige un peso y confirma con el botón B2.</p></div><div class="table-footer"><span id="table-count">0 registros</span><span><i class="tiny-dot"></i> <span id="storage-label">Guardados en la nube</span></span></div></section>
+  <footer><span>UPCYLAB · LAB881</span><span>Peso simulado con potenciómetro. El LED es una demostración; no valida curado UV.</span></footer>
+</main><script src="/app.js"></script></body></html>
