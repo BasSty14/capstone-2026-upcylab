@@ -11,11 +11,18 @@ npm run setup-db
 npm test
 npm run build
 npx vercel login
-npx vercel link
-npx vercel deploy --prod
 ```
 
 `setup-db` crea tabla e índice si faltan; no borra registros. La sesión de Vercel no forma parte del repositorio. La API está configurada en São Paulo (`gru1`), próxima a la base actual.
+
+En este repositorio, ejecuta los comandos de despliegue **desde la raíz de la bitácora**, indicando la configuración del subproyecto:
+
+```sh
+npx vercel link --project upcylab-dashboard
+npx vercel deploy --prod --local-config software/upcylab/vercel.json
+```
+
+En Vercel, `Root Directory` debe ser `software/upcylab` y la rama de producción, `main`. La publicación automática requiere que la app de Vercel en GitHub tenga acceso al repositorio; vincular la cuenta de GitHub al inicio de sesión no sustituye esa instalación.
 
 ## Pruebas
 

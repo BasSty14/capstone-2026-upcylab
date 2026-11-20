@@ -1,2 +1,4 @@
 # Metadatos locales de Vercel; no contienen codigo del proyecto.
 .vercel/
+.env*
+!.env.example

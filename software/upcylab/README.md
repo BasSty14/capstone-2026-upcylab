@@ -37,7 +37,7 @@ Abre http://127.0.0.1:8877. La base SQLite local en `data/` es independiente de 
 
 1. Conecta Neon al proyecto Vercel y configura `DATABASE_URL` y `DEVICE_TOKEN` como variables privadas.
 2. Inicializa la tabla con `npm run setup-db` usando una `.env.local` propia.
-3. Despliega desde esta carpeta con `npx vercel deploy --prod`.
+3. Configura `software/upcylab` como raíz de Vercel. Para desplegar por CLI desde el repo, sigue [estas instrucciones](docs/CONFIGURACION.md).
 4. Configura y carga el [firmware](firmware/README.md) con la misma clave de escritura.
 
 La API actual usa São Paulo (`gru1`), cerca de Neon. Consulta [configuración y despliegue](docs/CONFIGURACION.md) y el [contrato de la API](docs/API.md).
