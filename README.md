@@ -94,6 +94,7 @@ El código de la estación ESP32 y del dashboard está en [software/upcylab](sof
 - [S11 - Seguimiento del equipo y actividad de observación](bitacora/S11.md)
 - [S13 - Planificación del prototipo, presentación de la solución y desafío del marshmallow](bitacora/S13.md)
 - [S14 - Presentación de avance, plan de pruebas y preparación del stand](bitacora/S14.md)
+- [S15 - Implementación del prototipo ESP32, registro por Wi-Fi y dashboard en Vercel](bitacora/S15.md)
 
 ## Decisiones relevantes
 

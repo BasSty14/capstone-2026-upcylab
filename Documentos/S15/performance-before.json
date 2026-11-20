@@ -1,0 +1,12 @@
+{
+  "mode": "before",
+  "roundTripsPerRefresh": 2,
+  "milliseconds": [
+    1253,
+    626,
+    611,
+    608,
+    624
+  ],
+  "median": 624
+}

@@ -1,0 +1,13 @@
+{
+  "mode": "after",
+  "roundTripsPerRefresh": 1,
+  "milliseconds": [
+    553,
+    260,
+    89,
+    91,
+    246
+  ],
+  "median": 246,
+  "region": "gru1"
+}
